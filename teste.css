@@ -1,0 +1,54 @@
+#change_btn {
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+
+#header_widget{
+    background-color: #f9fafd;
+}
+
+#icon_only_widget {
+    background-color: #313a46;
+    width: 50px;
+}
+
+#icon_only_widget QPushButton, QLabel {
+    height: 50px;
+    border: none;
+    /* border-bottom: 1px solid #b0b0b0; */
+}
+
+#icon_only_widget QPushButton:hover {
+    background-color: rgba(86, 101, 115, 0.5);
+
+}
+
+#logo_label_1 {
+    padding: 5px;
+    font-weight: bold;
+}
+/*=================== menu full ================*/
+
+/* style for frame  */
+#full_menu_widget {
+    background-color: #313a46;
+}
+
+/* style for QPushButton  */
+#full_menu_widget QPushButton {
+    border: none;
+    border-radius: 3px;
+    text-align: left;
+    padding: 8px 0 8px 15px;
+    color: #788596;
+}
+
+#full_menu_widget QPushButton:hover {
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+#full_menu_widget QPushButton:checked {
+    color: #fff;
+}

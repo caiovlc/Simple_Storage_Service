@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon/account-logout-32.ico</file>
+    <file>icon/activity-feed-32.ico</file>
+    <file>icon/activity-feed-48.ico</file>
+    <file>icon/activity-feed-48.png</file>
+    <file>icon/close-window-32.ico</file>
+    <file>icon/close-window-48.png</file>
+    <file>icon/home-4-32.ico</file>
+    <file>icon/home-4-48.ico</file>
+    <file>icon/home-4-48.png</file>
+    <file>icon/menu-4-32.ico</file>
+    <file>icon/note-2-32.ico</file>
+    <file>icon/note-2-48.png</file>
+    <file>icon/product-32.ico</file>
+    <file>icon/product-48.ico</file>
+    <file>icon/product-48.png</file>
+    <file>icon/S3 icon.png</file>
+    <file>icon/search-13-48.ico</file>
+  </qresource>
+</RCC>

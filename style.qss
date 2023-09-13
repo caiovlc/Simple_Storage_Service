@@ -1,0 +1,134 @@
+/*= Style for MainWindow START
+    ============================================ */
+    #MainWindow{
+        background-color: #fff;
+    }
+
+/*= END
+    ============================================ */
+
+/*= Style for Button to change menu style START
+    ============================================ */
+    #change_btn {
+        padding: 5px;
+        border: none;
+        width: 30px;
+        height: 30px;
+    }
+
+/*= END
+    ============================================ */
+
+
+/*= Style for header widget START
+    ============================================ */
+    #top_frame{
+        background-color: #f9fafd;
+    }
+
+/*= END
+    ============================================ */
+
+/*= Style for Menu with icon only START
+    ============================================ */
+
+    #icon_only_widget {
+        background-color: #313a46;
+        width: 70px;
+
+    }
+    
+    /* style for QPushButton and QLabel */
+
+    #icon_only_widget QPushButton, QLabel {
+        height: 50px;
+        border: none;
+        /* border-bottom: 1px solid #b0b0b0; */
+    }
+
+    #icon_only_widget QPushButton:hover {
+        background-color: rgba(86, 101, 115, 0.5);
+    }
+
+    /* style for logo image */
+    #lbl_logo_01 {
+        padding: 5px;
+    }
+
+/*= END
+    ============================================ */
+
+
+
+/*= Style for Menu with and text START
+    ============================================ */
+
+   /* style for frame  */
+    #full_menu_widget {
+        background-color: #313a46;
+        width: 70px;
+        font-weight: bold;
+    }
+
+    /* style for QPushButton  */
+    #full_menu_widget QPushButton {
+        border: none;
+        border-radius: 3px;
+        text-align: left;
+        padding: 8px 0 8px 15px;
+        color: #788596;
+        font-weight: bold;
+    }
+
+    #full_menu_widget QPushButton:hover {
+        background-color: rgba(86, 101, 115, 0.5);
+    }
+
+    #full_menu_widget QPushButton:checked {
+        color: #fff;
+    }
+
+    /* style for logo image */
+    #lbl_logo_02 {
+        padding: 5px;
+    }
+
+/*= END
+    ============================================ */
+
+/*= Style for button to change menu style START
+  ==================================================== */
+	#toggle_menu {
+		padding: 5px;
+		border: none;
+		width: 30px;
+		height: 30px;
+	}
+/*= END
+  ==================================================== */
+
+
+
+/*= Style for search button START
+    ============================================ */
+    #btn_pesquisa {
+        border: none;
+    }
+
+/*= END
+    ============================================ */
+
+/*= Style for search input START
+    ============================================ */
+    #input_pesquisa {
+        border: none;
+        padding: 5px 10px;
+    }
+
+    #input_pesquisa:focus {
+        background-color: #70B9FE;
+    }
+
+/*= END
+    ============================================ */
+
