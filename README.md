@@ -12,6 +12,8 @@ Bubliotecas:
 
 ```
 - PySide6
+- Requests
+- Os
 ```
 
 Modo de uso:
@@ -34,8 +36,8 @@ Modo de uso:
   ```
   
 - Instale as dependencias necessarias:
-```Python
-pip install -r requirements.txt
-```
+  ```Python
+    pip install -r requirements.txt
+  ```
 Agora basta rodar o codigo.
 Bom estudo!
